@@ -1,0 +1,1001 @@
+ID,Kingdom,Ruler,Reign Start,Reign End,Capital,Temples Built,Inscriptions Found,Trade Reach Score,Military Campaigns
+1,Chola,Kulothunga Chola I,482,494,Thanjavur,40,74,8.69,1
+2,Chola,Rajaraja Chola I,225,248,Thanjavur,80,68,7.88,6
+3,Pandya,Jatavarman Sundara Pandyan,1003,1032,Madurai,54,46,8.21,18
+4,Pandya,Maravarman Sundara Pandyan,372,404,Madurai,100,162,7.8,19
+5,Chola,Kulothunga Chola I,287,312,Thanjavur,100,178,5.28,12
+6,Chola,Rajaraja Chola I,450,480,Thanjavur,11,172,5.93,3
+7,Chera,Uthiyan Cheralathan,878,917,Karur,14,103,9.94,10
+8,Chola,Rajaraja Chola I,1026,1037,Thanjavur,44,134,8.69,2
+9,Chola,Rajaraja Chola I,1295,1310,Thanjavur,56,136,7.98,19
+10,Chola,Vikrama Chola,604,640,Thanjavur,67,143,9.48,2
+11,Chola,Vikrama Chola,1146,1170,Thanjavur,15,59,5.08,15
+12,Pandya,Jatavarman Sundara Pandyan,294,308,Madurai,64,72,9.07,17
+13,Chola,Vikrama Chola,1214,1248,Thanjavur,84,189,8.62,18
+14,Chera,Uthiyan Cheralathan,751,780,Karur,73,26,9.97,11
+15,Chera,Senguttuvan,1002,1029,Karur,63,115,5.44,4
+16,Chera,Kulashekhara Varman,722,760,Karur,28,91,5.91,14
+17,Chera,Uthiyan Cheralathan,451,485,Karur,12,65,6.52,7
+18,Chola,Vikrama Chola,385,401,Thanjavur,64,113,8.93,1
+19,Chola,Vikrama Chola,934,949,Thanjavur,84,119,5.16,4
+20,Chera,Senguttuvan,697,709,Karur,55,103,7.9,8
+21,Pandya,Nedunjeliyan II,319,335,Madurai,90,94,5.0,12
+22,Chola,Rajendra Chola I,814,846,Thanjavur,97,191,7.09,2
+23,Chola,Rajendra Chola I,593,627,Thanjavur,11,125,7.89,3
+24,Chola,Rajaraja Chola I,547,562,Thanjavur,33,112,5.67,6
+25,Chola,Rajaraja Chola I,926,963,Thanjavur,51,84,5.48,18
+26,Pandya,Maravarman Sundara Pandyan,702,722,Madurai,80,83,9.13,0
+27,Chola,Vikrama Chola,1101,1137,Thanjavur,20,172,7.15,17
+28,Chola,Kulothunga Chola I,211,223,Thanjavur,66,28,9.13,17
+29,Pandya,Maravarman Sundara Pandyan,313,341,Madurai,79,165,7.14,20
+30,Chola,Rajendra Chola I,472,498,Thanjavur,47,150,5.06,2
+31,Chera,Senguttuvan,933,971,Karur,65,111,6.15,3
+32,Pandya,Maravarman Sundara Pandyan,185,201,Madurai,27,161,7.36,13
+33,Chola,Rajaraja Chola I,261,294,Thanjavur,38,85,9.17,6
+34,Pandya,Maravarman Sundara Pandyan,130,169,Madurai,93,58,9.7,13
+35,Chola,Rajendra Chola I,721,749,Thanjavur,95,187,7.87,18
+36,Pandya,Jatavarman Sundara Pandyan,839,860,Madurai,32,140,8.36,5
+37,Chera,Uthiyan Cheralathan,290,310,Karur,79,50,6.73,4
+38,Pandya,Jatavarman Sundara Pandyan,997,1029,Madurai,48,140,8.26,9
+39,Chola,Rajaraja Chola I,914,935,Thanjavur,53,141,5.71,6
+40,Chola,Rajendra Chola I,503,530,Thanjavur,61,115,6.27,9
+41,Chera,Senguttuvan,566,590,Karur,69,113,9.21,3
+42,Chera,Uthiyan Cheralathan,992,1012,Karur,45,120,7.55,20
+43,Chola,Kulothunga Chola I,495,529,Thanjavur,60,26,8.57,12
+44,Chola,Kulothunga Chola I,929,958,Thanjavur,32,51,9.26,6
+45,Chera,Kulashekhara Varman,1131,1155,Karur,57,157,5.84,20
+46,Chola,Rajendra Chola I,479,515,Thanjavur,88,170,9.21,17
+47,Chola,Kulothunga Chola I,1259,1297,Thanjavur,97,33,9.16,16
+48,Pandya,Maravarman Sundara Pandyan,1052,1087,Madurai,15,129,7.13,9
+49,Chola,Vikrama Chola,1276,1303,Thanjavur,76,38,7.32,0
+50,Pandya,Jatavarman Sundara Pandyan,671,701,Madurai,82,100,8.38,14
+51,Chera,Uthiyan Cheralathan,265,288,Karur,33,182,8.17,19
+52,Pandya,Nedunjeliyan II,776,805,Madurai,73,91,6.64,4
+53,Chola,Rajaraja Chola I,558,585,Thanjavur,35,184,7.97,3
+54,Chola,Kulothunga Chola I,1171,1207,Thanjavur,59,199,8.46,19
+55,Pandya,Maravarman Sundara Pandyan,263,286,Madurai,74,47,9.86,4
+56,Chera,Kulashekhara Varman,328,352,Karur,40,30,5.8,18
+57,Chola,Rajendra Chola I,858,888,Thanjavur,51,183,7.58,19
+58,Chola,Kulothunga Chola I,1139,1168,Thanjavur,69,189,8.0,16
+59,Pandya,Nedunjeliyan II,693,712,Madurai,96,22,5.19,1
+60,Pandya,Nedunjeliyan II,556,570,Madurai,55,30,7.43,1
+61,Chera,Uthiyan Cheralathan,268,294,Karur,15,68,5.4,16
+62,Chola,Rajendra Chola I,593,622,Thanjavur,99,159,8.59,19
+63,Chola,Rajaraja Chola I,374,411,Thanjavur,94,106,6.9,13
+64,Pandya,Jatavarman Sundara Pandyan,918,938,Madurai,29,158,7.21,4
+65,Chola,Rajaraja Chola I,673,700,Thanjavur,33,193,9.3,15
+66,Chera,Senguttuvan,904,919,Karur,58,40,5.15,4
+67,Chera,Uthiyan Cheralathan,376,392,Karur,86,34,6.02,7
+68,Chola,Rajaraja Chola I,750,775,Thanjavur,38,84,5.07,17
+69,Chola,Vikrama Chola,1093,1131,Thanjavur,35,92,9.12,2
+70,Pandya,Jatavarman Sundara Pandyan,1143,1160,Madurai,20,145,9.47,16
+71,Pandya,Nedunjeliyan II,284,303,Madurai,83,42,5.15,14
+72,Pandya,Jatavarman Sundara Pandyan,435,464,Madurai,58,106,6.18,14
+73,Chola,Rajendra Chola I,1170,1192,Thanjavur,40,82,7.7,15
+74,Chola,Kulothunga Chola I,324,357,Thanjavur,84,105,7.05,19
+75,Chera,Senguttuvan,764,785,Karur,100,196,7.75,16
+76,Chera,Uthiyan Cheralathan,391,406,Karur,70,72,5.39,9
+77,Chola,Rajaraja Chola I,1005,1018,Thanjavur,34,179,7.47,9
+78,Chera,Uthiyan Cheralathan,410,434,Karur,91,94,7.26,1
+79,Chola,Vikrama Chola,447,487,Thanjavur,42,194,7.29,5
+80,Chera,Uthiyan Cheralathan,850,880,Karur,35,46,9.27,3
+81,Chola,Vikrama Chola,1225,1236,Thanjavur,69,27,6.26,6
+82,Chola,Vikrama Chola,296,318,Thanjavur,22,160,8.17,17
+83,Chera,Kulashekhara Varman,818,855,Karur,14,186,7.56,18
+84,Pandya,Nedunjeliyan II,1149,1159,Madurai,72,23,6.93,8
+85,Chola,Rajaraja Chola I,800,827,Thanjavur,63,171,5.87,15
+86,Chola,Kulothunga Chola I,750,778,Thanjavur,99,154,6.61,20
+87,Chera,Senguttuvan,1070,1088,Karur,85,170,8.78,2
+88,Chola,Vikrama Chola,1006,1042,Thanjavur,23,176,5.63,14
+89,Pandya,Maravarman Sundara Pandyan,284,294,Madurai,44,136,6.82,15
+90,Chera,Kulashekhara Varman,353,370,Karur,82,130,8.89,7
+91,Chera,Kulashekhara Varman,362,377,Karur,46,70,7.2,3
+92,Chera,Uthiyan Cheralathan,585,601,Karur,22,184,5.95,11
+93,Chera,Kulashekhara Varman,1113,1137,Karur,14,96,7.25,16
+94,Chola,Rajendra Chola I,122,136,Thanjavur,12,85,9.89,11
+95,Chola,Vikrama Chola,477,516,Thanjavur,19,130,6.51,20
+96,Pandya,Nedunjeliyan II,403,425,Madurai,46,92,7.63,9
+97,Pandya,Nedunjeliyan II,1094,1109,Madurai,72,81,6.94,16
+98,Pandya,Nedunjeliyan II,710,736,Madurai,73,36,7.1,5
+99,Pandya,Nedunjeliyan II,1167,1179,Madurai,61,156,5.98,4
+100,Pandya,Nedunjeliyan II,622,661,Madurai,41,179,9.27,19
+101,Pandya,Nedunjeliyan II,926,957,Madurai,12,120,9.1,3
+102,Chera,Senguttuvan,813,836,Karur,34,34,9.62,6
+103,Chola,Rajaraja Chola I,342,365,Thanjavur,22,40,7.47,12
+104,Pandya,Jatavarman Sundara Pandyan,611,636,Madurai,35,123,5.6,10
+105,Pandya,Nedunjeliyan II,838,864,Madurai,70,60,5.5,15
+106,Chola,Rajendra Chola I,933,949,Thanjavur,66,122,6.14,12
+107,Chola,Rajaraja Chola I,898,933,Thanjavur,55,38,5.63,2
+108,Chera,Uthiyan Cheralathan,294,319,Karur,38,189,5.24,8
+109,Pandya,Maravarman Sundara Pandyan,383,414,Madurai,66,178,5.75,19
+110,Chera,Uthiyan Cheralathan,389,427,Karur,69,67,9.34,20
+111,Pandya,Maravarman Sundara Pandyan,418,446,Madurai,48,54,7.97,14
+112,Chera,Kulashekhara Varman,689,711,Karur,57,191,7.3,6
+113,Chera,Senguttuvan,588,627,Karur,52,159,8.89,0
+114,Pandya,Maravarman Sundara Pandyan,292,302,Madurai,31,124,5.64,2
+115,Chola,Rajaraja Chola I,542,556,Thanjavur,73,131,6.82,10
+116,Chera,Senguttuvan,1209,1225,Karur,78,191,8.77,2
+117,Chola,Kulothunga Chola I,665,689,Thanjavur,67,38,8.02,5
+118,Chera,Kulashekhara Varman,1170,1209,Karur,11,83,9.77,12
+119,Pandya,Maravarman Sundara Pandyan,583,621,Madurai,79,83,7.24,3
+120,Chola,Rajendra Chola I,984,1014,Thanjavur,16,29,9.64,16
+121,Pandya,Jatavarman Sundara Pandyan,1295,1308,Madurai,58,91,6.51,7
+122,Chera,Senguttuvan,460,497,Karur,73,82,9.76,1
+123,Chera,Uthiyan Cheralathan,605,628,Karur,97,29,8.81,20
+124,Chera,Uthiyan Cheralathan,1112,1147,Karur,35,55,7.57,11
+125,Chola,Rajaraja Chola I,1184,1196,Thanjavur,95,146,6.37,6
+126,Chera,Kulashekhara Varman,893,933,Karur,94,97,9.74,1
+127,Chera,Kulashekhara Varman,625,637,Karur,34,87,5.41,14
+128,Pandya,Jatavarman Sundara Pandyan,612,646,Madurai,80,110,5.33,4
+129,Pandya,Nedunjeliyan II,1237,1253,Madurai,100,46,5.14,17
+130,Chera,Kulashekhara Varman,482,495,Karur,32,128,8.22,0
+131,Chera,Kulashekhara Varman,1177,1188,Karur,89,40,7.72,20
+132,Pandya,Jatavarman Sundara Pandyan,354,365,Madurai,29,134,6.2,3
+133,Chera,Senguttuvan,822,840,Karur,25,121,9.39,17
+134,Chera,Senguttuvan,861,885,Karur,42,149,9.74,8
+135,Chola,Kulothunga Chola I,410,442,Thanjavur,33,125,8.66,5
+136,Chera,Uthiyan Cheralathan,1116,1144,Karur,54,187,9.8,19
+137,Chola,Rajendra Chola I,882,919,Thanjavur,14,167,5.49,11
+138,Chera,Uthiyan Cheralathan,682,713,Karur,64,173,5.33,1
+139,Pandya,Nedunjeliyan II,547,565,Madurai,94,100,9.95,1
+140,Chola,Rajaraja Chola I,540,563,Thanjavur,64,168,9.58,14
+141,Chola,Rajendra Chola I,953,972,Thanjavur,41,40,6.62,3
+142,Chola,Rajaraja Chola I,968,1005,Thanjavur,73,186,5.01,12
+143,Pandya,Maravarman Sundara Pandyan,1109,1149,Madurai,76,173,8.34,8
+144,Chola,Rajendra Chola I,1013,1051,Thanjavur,47,151,9.38,14
+145,Pandya,Jatavarman Sundara Pandyan,1203,1218,Madurai,46,179,5.85,12
+146,Pandya,Nedunjeliyan II,910,937,Madurai,25,122,8.95,4
+147,Chola,Kulothunga Chola I,1251,1266,Thanjavur,35,71,9.22,0
+148,Chola,Vikrama Chola,978,992,Thanjavur,31,44,6.01,6
+149,Chera,Senguttuvan,439,461,Karur,91,150,6.18,18
+150,Pandya,Jatavarman Sundara Pandyan,236,272,Madurai,100,81,7.19,5
+151,Pandya,Nedunjeliyan II,1211,1249,Madurai,53,56,5.97,17
+152,Chola,Rajaraja Chola I,251,288,Thanjavur,18,41,6.86,19
+153,Chera,Uthiyan Cheralathan,891,914,Karur,90,108,9.48,11
+154,Chera,Uthiyan Cheralathan,732,742,Karur,17,158,7.55,20
+155,Pandya,Maravarman Sundara Pandyan,1206,1218,Madurai,87,20,5.05,17
+156,Pandya,Jatavarman Sundara Pandyan,382,409,Madurai,83,190,9.3,13
+157,Chola,Rajendra Chola I,915,954,Thanjavur,54,92,9.24,18
+158,Pandya,Maravarman Sundara Pandyan,927,938,Madurai,76,174,9.22,18
+159,Pandya,Nedunjeliyan II,374,409,Madurai,22,93,7.42,16
+160,Chera,Kulashekhara Varman,612,629,Karur,26,43,8.58,16
+161,Pandya,Maravarman Sundara Pandyan,708,733,Madurai,33,172,8.36,10
+162,Pandya,Maravarman Sundara Pandyan,244,280,Madurai,13,23,9.13,18
+163,Chera,Senguttuvan,596,618,Karur,82,83,8.31,19
+164,Chera,Kulashekhara Varman,132,172,Karur,80,148,8.06,15
+165,Pandya,Maravarman Sundara Pandyan,237,276,Madurai,40,129,7.51,10
+166,Chola,Kulothunga Chola I,1292,1331,Thanjavur,37,69,5.62,9
+167,Chola,Rajendra Chola I,1170,1190,Thanjavur,55,166,9.56,2
+168,Pandya,Maravarman Sundara Pandyan,1160,1191,Madurai,38,190,8.76,13
+169,Chola,Vikrama Chola,1256,1290,Thanjavur,23,63,8.5,8
+170,Chera,Uthiyan Cheralathan,1133,1147,Karur,12,79,5.18,20
+171,Chera,Senguttuvan,312,337,Karur,90,193,6.74,20
+172,Chola,Rajaraja Chola I,160,174,Thanjavur,58,187,6.74,0
+173,Pandya,Jatavarman Sundara Pandyan,1073,1089,Madurai,12,141,6.43,6
+174,Chola,Kulothunga Chola I,454,494,Thanjavur,81,67,7.25,1
+175,Pandya,Maravarman Sundara Pandyan,401,414,Madurai,36,199,9.24,16
+176,Pandya,Maravarman Sundara Pandyan,194,211,Madurai,49,117,9.68,0
+177,Pandya,Nedunjeliyan II,329,354,Madurai,66,137,7.49,17
+178,Pandya,Maravarman Sundara Pandyan,1101,1129,Madurai,43,147,8.88,17
+179,Chera,Kulashekhara Varman,871,897,Karur,27,23,8.8,19
+180,Chola,Rajendra Chola I,307,339,Thanjavur,71,58,6.44,10
+181,Pandya,Maravarman Sundara Pandyan,831,857,Madurai,63,170,6.86,17
+182,Chera,Kulashekhara Varman,711,742,Karur,28,114,5.95,18
+183,Chola,Kulothunga Chola I,1181,1212,Thanjavur,68,67,6.96,18
+184,Pandya,Jatavarman Sundara Pandyan,601,622,Madurai,29,33,6.62,0
+185,Chera,Kulashekhara Varman,899,938,Karur,63,58,9.66,15
+186,Pandya,Maravarman Sundara Pandyan,1076,1103,Madurai,94,22,8.93,13
+187,Pandya,Maravarman Sundara Pandyan,449,462,Madurai,26,52,5.65,5
+188,Chera,Kulashekhara Varman,817,842,Karur,77,75,8.48,0
+189,Pandya,Jatavarman Sundara Pandyan,166,184,Madurai,51,56,7.28,3
+190,Chola,Vikrama Chola,543,579,Thanjavur,98,149,7.55,5
+191,Pandya,Jatavarman Sundara Pandyan,691,723,Madurai,91,96,7.11,6
+192,Chola,Kulothunga Chola I,515,537,Thanjavur,97,189,8.64,19
+193,Pandya,Nedunjeliyan II,1020,1054,Madurai,97,86,9.58,4
+194,Chola,Rajendra Chola I,687,715,Thanjavur,37,75,7.66,6
+195,Chera,Senguttuvan,760,798,Karur,67,116,7.64,7
+196,Chera,Kulashekhara Varman,825,859,Karur,50,71,5.83,2
+197,Pandya,Nedunjeliyan II,925,951,Madurai,34,112,5.44,3
+198,Pandya,Maravarman Sundara Pandyan,1000,1011,Madurai,94,145,5.92,17
+199,Chera,Senguttuvan,230,263,Karur,38,111,8.65,10
+200,Chera,Kulashekhara Varman,536,546,Karur,38,25,5.47,20
+201,Chera,Kulashekhara Varman,1016,1034,Karur,100,136,9.88,16
+202,Chola,Vikrama Chola,238,264,Thanjavur,10,119,8.91,3
+203,Chola,Kulothunga Chola I,249,263,Thanjavur,82,189,6.39,0
+204,Pandya,Jatavarman Sundara Pandyan,470,504,Madurai,71,68,9.28,8
+205,Pandya,Jatavarman Sundara Pandyan,1178,1188,Madurai,68,45,5.64,9
+206,Pandya,Jatavarman Sundara Pandyan,439,453,Madurai,100,124,6.89,9
+207,Chola,Kulothunga Chola I,438,474,Thanjavur,90,140,8.93,0
+208,Chera,Uthiyan Cheralathan,472,495,Karur,14,181,7.71,12
+209,Pandya,Jatavarman Sundara Pandyan,280,299,Madurai,55,104,8.63,1
+210,Chera,Kulashekhara Varman,700,736,Karur,13,93,6.01,18
+211,Chera,Uthiyan Cheralathan,107,131,Karur,60,102,6.82,12
+212,Chola,Rajaraja Chola I,280,305,Thanjavur,32,62,7.32,20
+213,Pandya,Jatavarman Sundara Pandyan,716,741,Madurai,10,85,8.87,1
+214,Chola,Rajaraja Chola I,143,161,Thanjavur,71,179,9.05,17
+215,Chola,Vikrama Chola,988,1000,Thanjavur,26,109,5.51,7
+216,Pandya,Jatavarman Sundara Pandyan,386,413,Madurai,93,57,5.94,18
+217,Chera,Kulashekhara Varman,1156,1167,Karur,64,190,8.7,5
+218,Chola,Kulothunga Chola I,1047,1061,Thanjavur,95,160,8.45,1
+219,Chera,Kulashekhara Varman,769,785,Karur,29,130,7.96,9
+220,Chola,Kulothunga Chola I,1096,1108,Thanjavur,30,23,9.02,0
+221,Chola,Kulothunga Chola I,721,759,Thanjavur,18,33,7.48,12
+222,Pandya,Maravarman Sundara Pandyan,456,475,Madurai,70,91,7.3,1
+223,Chera,Kulashekhara Varman,485,507,Karur,75,20,8.87,13
+224,Chera,Senguttuvan,1208,1234,Karur,14,194,9.75,20
+225,Pandya,Nedunjeliyan II,702,722,Madurai,66,183,7.89,6
+226,Chera,Kulashekhara Varman,1088,1128,Karur,61,106,6.32,5
+227,Chera,Kulashekhara Varman,798,825,Karur,49,176,6.3,4
+228,Chera,Uthiyan Cheralathan,541,552,Karur,17,185,6.39,20
+229,Chera,Uthiyan Cheralathan,685,698,Karur,92,194,5.99,16
+230,Chola,Vikrama Chola,1284,1319,Thanjavur,41,72,9.51,1
+231,Pandya,Maravarman Sundara Pandyan,1131,1167,Madurai,79,54,7.89,16
+232,Chola,Kulothunga Chola I,430,450,Thanjavur,80,137,5.31,7
+233,Chola,Vikrama Chola,312,348,Thanjavur,36,30,7.66,12
+234,Chera,Uthiyan Cheralathan,822,840,Karur,81,132,6.2,2
+235,Chola,Vikrama Chola,1160,1186,Thanjavur,50,90,9.23,6
+236,Pandya,Jatavarman Sundara Pandyan,304,340,Madurai,75,195,8.57,17
+237,Pandya,Maravarman Sundara Pandyan,701,737,Madurai,48,20,8.14,13
+238,Pandya,Jatavarman Sundara Pandyan,816,850,Madurai,40,59,8.52,7
+239,Pandya,Jatavarman Sundara Pandyan,1197,1211,Madurai,100,59,9.89,11
+240,Pandya,Nedunjeliyan II,796,824,Madurai,41,122,9.52,0
+241,Pandya,Jatavarman Sundara Pandyan,1210,1223,Madurai,47,95,7.02,6
+242,Pandya,Nedunjeliyan II,1225,1243,Madurai,80,114,9.1,17
+243,Chola,Kulothunga Chola I,905,940,Thanjavur,37,107,9.98,2
+244,Chola,Kulothunga Chola I,671,690,Thanjavur,77,138,6.79,20
+245,Chera,Uthiyan Cheralathan,124,137,Karur,14,22,9.19,9
+246,Chera,Senguttuvan,1098,1114,Karur,30,187,6.1,2
+247,Chera,Uthiyan Cheralathan,571,605,Karur,42,179,6.57,12
+248,Chera,Uthiyan Cheralathan,195,224,Karur,62,99,9.9,19
+249,Chola,Rajaraja Chola I,665,698,Thanjavur,48,124,9.25,16
+250,Chera,Senguttuvan,1080,1095,Karur,96,105,9.6,9
+251,Chera,Uthiyan Cheralathan,671,705,Karur,10,82,5.1,20
+252,Chola,Rajendra Chola I,615,645,Thanjavur,85,182,5.85,0
+253,Chola,Kulothunga Chola I,1036,1073,Thanjavur,42,179,6.74,1
+254,Pandya,Maravarman Sundara Pandyan,1060,1084,Madurai,66,123,7.64,1
+255,Chola,Rajaraja Chola I,1292,1315,Thanjavur,20,82,8.48,15
+256,Pandya,Maravarman Sundara Pandyan,253,283,Madurai,66,180,6.78,20
+257,Pandya,Jatavarman Sundara Pandyan,557,581,Madurai,93,90,9.46,12
+258,Pandya,Nedunjeliyan II,997,1021,Madurai,34,191,8.35,5
+259,Chera,Kulashekhara Varman,793,833,Karur,40,39,8.15,13
+260,Chola,Rajendra Chola I,140,151,Thanjavur,22,70,5.9,8
+261,Chera,Uthiyan Cheralathan,1263,1283,Karur,30,127,8.32,10
+262,Pandya,Nedunjeliyan II,869,894,Madurai,32,108,5.99,4
+263,Pandya,Nedunjeliyan II,545,557,Madurai,77,165,8.1,7
+264,Pandya,Maravarman Sundara Pandyan,198,213,Madurai,15,131,9.29,15
+265,Chera,Uthiyan Cheralathan,574,609,Karur,39,35,8.8,1
+266,Chola,Rajaraja Chola I,1228,1242,Thanjavur,13,80,6.07,4
+267,Chola,Vikrama Chola,1080,1094,Thanjavur,18,55,9.79,10
+268,Pandya,Jatavarman Sundara Pandyan,472,511,Madurai,79,22,9.26,7
+269,Chera,Kulashekhara Varman,994,1029,Karur,46,182,6.74,2
+270,Chola,Kulothunga Chola I,137,166,Thanjavur,83,23,8.1,16
+271,Pandya,Maravarman Sundara Pandyan,1093,1116,Madurai,58,21,8.99,5
+272,Chola,Rajaraja Chola I,337,351,Thanjavur,50,194,9.66,9
+273,Pandya,Nedunjeliyan II,1292,1320,Madurai,19,165,8.45,3
+274,Pandya,Maravarman Sundara Pandyan,122,142,Madurai,76,191,8.0,8
+275,Pandya,Maravarman Sundara Pandyan,1080,1091,Madurai,19,170,7.92,16
+276,Pandya,Jatavarman Sundara Pandyan,311,322,Madurai,81,58,8.34,6
+277,Chera,Uthiyan Cheralathan,332,355,Karur,26,157,6.18,2
+278,Pandya,Nedunjeliyan II,231,245,Madurai,59,149,5.28,18
+279,Chera,Kulashekhara Varman,1041,1055,Karur,20,45,9.35,11
+280,Chola,Kulothunga Chola I,1257,1272,Thanjavur,58,28,5.17,0
+281,Pandya,Jatavarman Sundara Pandyan,505,537,Madurai,95,90,7.5,1
+282,Chola,Rajaraja Chola I,300,335,Thanjavur,57,113,9.79,15
+283,Chera,Kulashekhara Varman,815,855,Karur,67,124,8.47,14
+284,Chola,Rajendra Chola I,540,580,Thanjavur,31,126,9.9,0
+285,Chola,Rajendra Chola I,830,846,Thanjavur,85,190,8.88,6
+286,Pandya,Maravarman Sundara Pandyan,1027,1058,Madurai,83,175,8.2,18
+287,Chera,Senguttuvan,1202,1231,Karur,51,140,7.98,16
+288,Pandya,Jatavarman Sundara Pandyan,991,1010,Madurai,48,95,7.6,6
+289,Chera,Uthiyan Cheralathan,650,672,Karur,83,153,9.93,5
+290,Pandya,Jatavarman Sundara Pandyan,148,172,Madurai,73,185,8.82,12
+291,Chola,Vikrama Chola,537,559,Thanjavur,75,83,9.68,5
+292,Chola,Vikrama Chola,825,859,Thanjavur,38,34,5.92,2
+293,Chola,Rajaraja Chola I,1083,1098,Thanjavur,23,93,6.89,6
+294,Chera,Kulashekhara Varman,1013,1050,Karur,81,43,8.64,17
+295,Pandya,Nedunjeliyan II,930,970,Madurai,84,86,9.98,20
+296,Chera,Kulashekhara Varman,614,635,Karur,72,30,9.83,0
+297,Chola,Rajendra Chola I,967,982,Thanjavur,89,180,6.5,4
+298,Chola,Rajaraja Chola I,101,116,Thanjavur,56,99,6.34,10
+299,Chola,Vikrama Chola,182,211,Thanjavur,67,195,8.55,14
+300,Chera,Uthiyan Cheralathan,209,247,Karur,93,194,9.91,12
+301,Chola,Rajaraja Chola I,1130,1142,Thanjavur,78,69,8.58,3
+302,Chera,Senguttuvan,737,768,Karur,81,31,7.39,3
+303,Chola,Rajendra Chola I,368,402,Thanjavur,64,124,5.5,10
+304,Chera,Kulashekhara Varman,167,177,Karur,68,149,6.84,19
+305,Chola,Rajaraja Chola I,1046,1082,Thanjavur,63,196,8.14,3
+306,Chera,Senguttuvan,523,536,Karur,70,156,5.58,5
+307,Chera,Kulashekhara Varman,796,820,Karur,11,89,7.69,20
+308,Chola,Rajendra Chola I,1298,1321,Thanjavur,96,199,9.45,3
+309,Chola,Rajendra Chola I,453,472,Thanjavur,53,79,6.38,6
+310,Chola,Rajendra Chola I,744,756,Thanjavur,81,82,7.61,2
+311,Pandya,Nedunjeliyan II,462,488,Madurai,51,192,5.53,5
+312,Chera,Kulashekhara Varman,190,219,Karur,81,120,6.15,17
+313,Pandya,Nedunjeliyan II,1236,1269,Madurai,100,88,7.55,20
+314,Pandya,Jatavarman Sundara Pandyan,853,876,Madurai,20,179,8.23,16
+315,Pandya,Maravarman Sundara Pandyan,1225,1237,Madurai,53,48,9.64,8
+316,Pandya,Nedunjeliyan II,1102,1132,Madurai,82,139,7.6,4
+317,Pandya,Maravarman Sundara Pandyan,513,530,Madurai,100,104,7.99,16
+318,Chera,Kulashekhara Varman,622,650,Karur,48,188,6.49,15
+319,Chera,Uthiyan Cheralathan,1256,1279,Karur,19,20,7.86,9
+320,Chola,Rajendra Chola I,1118,1152,Thanjavur,33,155,9.19,0
+321,Chera,Kulashekhara Varman,1057,1083,Karur,73,62,5.66,17
+322,Pandya,Jatavarman Sundara Pandyan,1034,1065,Madurai,70,153,9.85,16
+323,Pandya,Nedunjeliyan II,756,782,Madurai,66,146,7.61,16
+324,Chola,Kulothunga Chola I,1123,1143,Thanjavur,46,87,6.33,2
+325,Chera,Senguttuvan,829,851,Karur,24,129,9.93,14
+326,Chola,Rajendra Chola I,664,691,Thanjavur,53,171,9.02,18
+327,Chola,Rajaraja Chola I,1263,1274,Thanjavur,32,117,6.12,15
+328,Chera,Kulashekhara Varman,376,411,Karur,27,183,6.89,4
+329,Pandya,Nedunjeliyan II,588,605,Madurai,37,179,8.43,12
+330,Pandya,Maravarman Sundara Pandyan,1257,1296,Madurai,20,173,6.56,5
+331,Chera,Uthiyan Cheralathan,171,186,Karur,86,187,9.55,17
+332,Pandya,Nedunjeliyan II,224,252,Madurai,22,68,7.04,17
+333,Chera,Kulashekhara Varman,407,419,Karur,63,60,5.44,12
+334,Chola,Kulothunga Chola I,126,164,Thanjavur,94,198,9.37,5
+335,Pandya,Nedunjeliyan II,727,739,Madurai,33,120,9.84,3
+336,Pandya,Jatavarman Sundara Pandyan,1057,1077,Madurai,24,130,9.03,3
+337,Chola,Kulothunga Chola I,201,240,Thanjavur,22,108,8.11,12
+338,Chera,Uthiyan Cheralathan,1213,1248,Karur,26,129,7.43,6
+339,Chola,Kulothunga Chola I,462,483,Thanjavur,12,122,8.36,12
+340,Pandya,Jatavarman Sundara Pandyan,287,317,Madurai,44,159,9.94,12
+341,Chola,Vikrama Chola,676,695,Thanjavur,45,59,7.21,20
+342,Pandya,Jatavarman Sundara Pandyan,530,557,Madurai,66,198,7.8,11
+343,Chola,Rajaraja Chola I,499,532,Thanjavur,30,179,6.15,5
+344,Pandya,Jatavarman Sundara Pandyan,558,572,Madurai,11,43,7.86,4
+345,Pandya,Maravarman Sundara Pandyan,734,772,Madurai,89,160,5.84,8
+346,Chera,Senguttuvan,833,869,Karur,81,197,6.96,16
+347,Pandya,Nedunjeliyan II,1066,1086,Madurai,82,106,7.9,5
+348,Pandya,Nedunjeliyan II,258,298,Madurai,54,27,8.96,13
+349,Chera,Uthiyan Cheralathan,1141,1178,Karur,74,102,5.68,17
+350,Pandya,Nedunjeliyan II,522,551,Madurai,30,35,7.07,9
+351,Chola,Kulothunga Chola I,215,246,Thanjavur,40,163,9.47,7
+352,Pandya,Maravarman Sundara Pandyan,1012,1044,Madurai,13,168,5.25,5
+353,Pandya,Maravarman Sundara Pandyan,477,501,Madurai,32,42,6.97,9
+354,Chera,Senguttuvan,1213,1253,Karur,21,188,5.97,5
+355,Chera,Kulashekhara Varman,1121,1158,Karur,70,186,6.64,19
+356,Pandya,Jatavarman Sundara Pandyan,935,975,Madurai,76,30,9.79,9
+357,Pandya,Maravarman Sundara Pandyan,1095,1114,Madurai,92,198,9.96,6
+358,Chola,Rajendra Chola I,286,315,Thanjavur,87,95,8.47,18
+359,Chera,Uthiyan Cheralathan,1288,1328,Karur,51,171,9.55,8
+360,Pandya,Maravarman Sundara Pandyan,1092,1108,Madurai,81,56,5.78,20
+361,Chera,Senguttuvan,1186,1207,Karur,73,130,7.6,3
+362,Chera,Uthiyan Cheralathan,870,888,Karur,11,64,6.11,0
+363,Chera,Kulashekhara Varman,973,1008,Karur,66,21,9.7,4
+364,Chola,Rajendra Chola I,714,733,Thanjavur,89,139,7.6,13
+365,Chera,Senguttuvan,1088,1113,Karur,81,133,7.69,6
+366,Chera,Senguttuvan,794,804,Karur,25,59,7.65,10
+367,Chola,Vikrama Chola,1210,1236,Thanjavur,66,30,6.91,9
+368,Chera,Kulashekhara Varman,597,630,Karur,31,123,9.66,19
+369,Chola,Vikrama Chola,1224,1242,Thanjavur,14,85,7.9,17
+370,Chera,Senguttuvan,1140,1161,Karur,45,160,6.69,14
+371,Pandya,Nedunjeliyan II,498,509,Madurai,10,154,7.98,14
+372,Chera,Senguttuvan,804,829,Karur,26,158,5.67,19
+373,Chera,Uthiyan Cheralathan,1146,1161,Karur,84,125,6.26,0
+374,Chera,Senguttuvan,800,829,Karur,51,134,7.0,11
+375,Pandya,Nedunjeliyan II,293,319,Madurai,79,23,8.97,18
+376,Chera,Uthiyan Cheralathan,907,946,Karur,10,32,5.65,8
+377,Pandya,Maravarman Sundara Pandyan,1149,1181,Madurai,38,106,6.1,4
+378,Chola,Kulothunga Chola I,691,705,Thanjavur,21,190,9.11,17
+379,Chera,Uthiyan Cheralathan,913,949,Karur,21,138,5.83,5
+380,Pandya,Nedunjeliyan II,685,715,Madurai,68,54,5.51,3
+381,Chera,Senguttuvan,1228,1244,Karur,44,170,5.63,9
+382,Pandya,Jatavarman Sundara Pandyan,1092,1109,Madurai,58,159,6.72,15
+383,Chera,Uthiyan Cheralathan,112,132,Karur,63,40,9.58,10
+384,Chera,Uthiyan Cheralathan,438,459,Karur,30,152,9.96,8
+385,Chola,Rajendra Chola I,925,964,Thanjavur,67,106,9.23,20
+386,Chola,Kulothunga Chola I,120,144,Thanjavur,28,166,8.1,6
+387,Pandya,Maravarman Sundara Pandyan,152,187,Madurai,49,106,6.65,16
+388,Pandya,Nedunjeliyan II,526,564,Madurai,40,38,9.37,11
+389,Pandya,Nedunjeliyan II,550,584,Madurai,46,78,7.88,0
+390,Chera,Uthiyan Cheralathan,205,232,Karur,69,102,5.82,6
+391,Pandya,Nedunjeliyan II,1124,1139,Madurai,88,85,9.39,3
+392,Chera,Uthiyan Cheralathan,173,204,Karur,42,92,5.68,19
+393,Pandya,Nedunjeliyan II,201,239,Madurai,24,31,7.13,7
+394,Chera,Senguttuvan,1037,1048,Karur,24,78,5.21,19
+395,Chola,Rajaraja Chola I,554,594,Thanjavur,87,85,5.72,3
+396,Pandya,Maravarman Sundara Pandyan,962,979,Madurai,46,45,9.09,14
+397,Pandya,Jatavarman Sundara Pandyan,640,674,Madurai,99,105,9.15,1
+398,Pandya,Nedunjeliyan II,705,731,Madurai,12,184,7.21,18
+399,Chera,Kulashekhara Varman,189,206,Karur,37,102,8.39,20
+400,Chola,Vikrama Chola,1072,1089,Thanjavur,27,32,5.71,8
+401,Pandya,Maravarman Sundara Pandyan,1154,1191,Madurai,45,172,5.33,6
+402,Pandya,Nedunjeliyan II,777,817,Madurai,13,124,8.5,9
+403,Chola,Vikrama Chola,1157,1192,Thanjavur,83,56,7.84,14
+404,Chola,Kulothunga Chola I,204,218,Thanjavur,97,135,9.61,16
+405,Chola,Vikrama Chola,1023,1042,Thanjavur,32,70,5.96,12
+406,Chera,Uthiyan Cheralathan,453,488,Karur,62,135,9.89,14
+407,Chola,Vikrama Chola,448,478,Thanjavur,88,65,6.14,13
+408,Chera,Kulashekhara Varman,279,309,Karur,92,179,6.42,5
+409,Chola,Rajaraja Chola I,1221,1233,Thanjavur,10,190,9.04,17
+410,Pandya,Jatavarman Sundara Pandyan,822,848,Madurai,67,86,5.8,10
+411,Pandya,Maravarman Sundara Pandyan,1248,1283,Madurai,35,184,9.05,16
+412,Chera,Kulashekhara Varman,462,492,Karur,33,189,9.86,7
+413,Chola,Rajaraja Chola I,669,685,Thanjavur,45,178,9.5,17
+414,Chera,Kulashekhara Varman,925,959,Karur,99,40,6.19,11
+415,Chera,Kulashekhara Varman,404,416,Karur,12,74,9.46,10
+416,Chola,Rajaraja Chola I,704,716,Thanjavur,91,73,7.59,20
+417,Pandya,Maravarman Sundara Pandyan,151,172,Madurai,84,59,5.64,4
+418,Chera,Senguttuvan,216,247,Karur,52,191,9.6,1
+419,Chola,Vikrama Chola,1208,1239,Thanjavur,66,107,9.54,18
+420,Chera,Senguttuvan,713,725,Karur,75,117,9.15,8
+421,Pandya,Maravarman Sundara Pandyan,1293,1315,Madurai,27,165,6.68,19
+422,Chera,Uthiyan Cheralathan,707,727,Karur,58,88,6.96,18
+423,Chera,Uthiyan Cheralathan,745,764,Karur,78,168,7.42,3
+424,Chola,Kulothunga Chola I,1247,1274,Thanjavur,95,36,8.17,0
+425,Chola,Rajendra Chola I,143,173,Thanjavur,55,174,5.96,11
+426,Chola,Kulothunga Chola I,892,926,Thanjavur,99,140,9.51,20
+427,Pandya,Maravarman Sundara Pandyan,203,234,Madurai,47,20,9.95,14
+428,Pandya,Jatavarman Sundara Pandyan,347,376,Madurai,73,94,5.95,6
+429,Chera,Senguttuvan,509,529,Karur,14,37,5.33,14
+430,Chera,Kulashekhara Varman,682,713,Karur,81,36,8.45,13
+431,Pandya,Jatavarman Sundara Pandyan,1138,1168,Madurai,36,173,6.97,3
+432,Chera,Kulashekhara Varman,902,919,Karur,61,140,8.73,8
+433,Pandya,Nedunjeliyan II,1013,1035,Madurai,65,47,9.66,10
+434,Chera,Uthiyan Cheralathan,379,407,Karur,25,118,5.65,18
+435,Chola,Kulothunga Chola I,1158,1198,Thanjavur,96,56,8.22,6
+436,Chera,Senguttuvan,977,1001,Karur,47,30,9.02,11
+437,Chola,Kulothunga Chola I,763,784,Thanjavur,12,28,8.97,9
+438,Chola,Rajendra Chola I,596,623,Thanjavur,68,192,6.38,20
+439,Pandya,Nedunjeliyan II,1150,1190,Madurai,92,166,5.7,18
+440,Chera,Kulashekhara Varman,423,463,Karur,100,191,6.79,19
+441,Pandya,Maravarman Sundara Pandyan,1300,1316,Madurai,90,169,5.59,12
+442,Chola,Vikrama Chola,199,216,Thanjavur,46,23,7.96,8
+443,Chera,Senguttuvan,988,1014,Karur,58,75,7.69,3
+444,Chera,Senguttuvan,1207,1219,Karur,62,160,6.39,11
+445,Chola,Vikrama Chola,189,223,Thanjavur,93,151,9.49,5
+446,Chola,Vikrama Chola,1250,1270,Thanjavur,57,148,5.37,12
+447,Chola,Vikrama Chola,244,254,Thanjavur,71,52,7.59,11
+448,Pandya,Maravarman Sundara Pandyan,136,157,Madurai,69,21,5.53,14
+449,Chera,Uthiyan Cheralathan,286,300,Karur,38,160,7.81,2
+450,Pandya,Maravarman Sundara Pandyan,119,143,Madurai,36,132,9.08,20
+451,Chera,Uthiyan Cheralathan,960,987,Karur,12,35,7.11,17
+452,Pandya,Jatavarman Sundara Pandyan,492,518,Madurai,41,168,5.09,2
+453,Chera,Kulashekhara Varman,614,653,Karur,93,158,9.08,9
+454,Chera,Senguttuvan,306,328,Karur,12,185,8.44,9
+455,Chola,Kulothunga Chola I,891,914,Thanjavur,16,95,7.1,6
+456,Pandya,Maravarman Sundara Pandyan,846,879,Madurai,10,170,6.11,0
+457,Chola,Kulothunga Chola I,510,532,Thanjavur,25,200,8.17,11
+458,Pandya,Maravarman Sundara Pandyan,463,488,Madurai,23,66,5.91,1
+459,Pandya,Nedunjeliyan II,592,622,Madurai,12,51,6.16,11
+460,Chola,Rajaraja Chola I,492,523,Thanjavur,19,120,5.08,19
+461,Chola,Vikrama Chola,308,332,Thanjavur,74,196,5.44,1
+462,Chera,Kulashekhara Varman,171,185,Karur,81,163,8.16,2
+463,Chera,Senguttuvan,182,204,Karur,87,55,5.24,1
+464,Chola,Rajendra Chola I,683,713,Thanjavur,98,169,6.49,1
+465,Pandya,Jatavarman Sundara Pandyan,1024,1037,Madurai,86,183,6.59,11
+466,Chola,Vikrama Chola,280,315,Thanjavur,65,38,8.06,13
+467,Pandya,Nedunjeliyan II,665,697,Madurai,40,53,8.17,3
+468,Chera,Kulashekhara Varman,901,940,Karur,99,108,7.35,1
+469,Chola,Kulothunga Chola I,333,355,Thanjavur,31,163,6.52,4
+470,Pandya,Jatavarman Sundara Pandyan,336,360,Madurai,59,193,5.66,6
+471,Pandya,Nedunjeliyan II,343,369,Madurai,74,113,7.86,19
+472,Chera,Kulashekhara Varman,422,454,Karur,72,36,5.25,4
+473,Chola,Vikrama Chola,1092,1104,Thanjavur,23,191,9.39,19
+474,Pandya,Jatavarman Sundara Pandyan,274,305,Madurai,87,183,7.17,11
+475,Pandya,Maravarman Sundara Pandyan,1118,1141,Madurai,36,183,9.75,7
+476,Chola,Kulothunga Chola I,749,767,Thanjavur,31,40,7.23,16
+477,Chera,Senguttuvan,191,205,Karur,46,71,9.39,14
+478,Chera,Uthiyan Cheralathan,142,176,Karur,67,63,6.14,2
+479,Pandya,Nedunjeliyan II,290,328,Madurai,59,151,6.86,6
+480,Pandya,Jatavarman Sundara Pandyan,404,441,Madurai,40,125,5.25,3
+481,Pandya,Nedunjeliyan II,738,774,Madurai,71,194,5.34,11
+482,Chola,Vikrama Chola,1241,1260,Thanjavur,23,50,7.83,16
+483,Chera,Senguttuvan,1003,1015,Karur,89,34,9.53,5
+484,Chola,Vikrama Chola,142,168,Thanjavur,70,133,5.83,10
+485,Chera,Kulashekhara Varman,865,883,Karur,37,153,7.6,20
+486,Pandya,Jatavarman Sundara Pandyan,1188,1198,Madurai,21,55,6.48,8
+487,Chola,Vikrama Chola,241,268,Thanjavur,65,139,7.25,13
+488,Pandya,Nedunjeliyan II,708,730,Madurai,11,101,8.42,2
+489,Chera,Senguttuvan,1175,1191,Karur,77,154,5.56,6
+490,Pandya,Nedunjeliyan II,113,151,Madurai,92,192,5.92,10
+491,Chera,Uthiyan Cheralathan,945,975,Karur,90,85,7.3,3
+492,Pandya,Nedunjeliyan II,132,162,Madurai,93,149,7.76,5
+493,Chola,Rajendra Chola I,1247,1270,Thanjavur,76,100,5.84,18
+494,Chera,Kulashekhara Varman,194,211,Karur,70,177,5.5,15
+495,Pandya,Jatavarman Sundara Pandyan,1025,1041,Madurai,84,75,5.56,7
+496,Pandya,Maravarman Sundara Pandyan,205,222,Madurai,92,98,7.73,17
+497,Chera,Senguttuvan,161,172,Karur,27,119,8.47,7
+498,Chola,Rajaraja Chola I,199,227,Thanjavur,82,121,6.3,17
+499,Pandya,Nedunjeliyan II,887,912,Madurai,37,33,8.39,10
+500,Chera,Kulashekhara Varman,1041,1054,Karur,90,99,7.53,19
+501,Chera,Kulashekhara Varman,1051,1061,Karur,20,130,5.34,3
+502,Chola,Vikrama Chola,1296,1306,Thanjavur,45,175,6.73,11
+503,Pandya,Maravarman Sundara Pandyan,882,919,Madurai,66,123,9.7,1
+504,Pandya,Maravarman Sundara Pandyan,517,548,Madurai,50,85,9.67,3
+505,Chola,Kulothunga Chola I,362,387,Thanjavur,15,65,7.86,13
+506,Chola,Rajendra Chola I,357,376,Thanjavur,25,100,9.31,10
+507,Chola,Kulothunga Chola I,1279,1290,Thanjavur,10,53,6.83,18
+508,Chera,Kulashekhara Varman,946,977,Karur,25,156,9.65,10
+509,Pandya,Maravarman Sundara Pandyan,684,721,Madurai,64,76,5.93,4
+510,Chola,Vikrama Chola,1057,1074,Thanjavur,74,174,8.34,16
+511,Pandya,Jatavarman Sundara Pandyan,751,781,Madurai,69,90,8.86,1
+512,Chola,Rajendra Chola I,782,815,Thanjavur,46,25,8.25,17
+513,Chera,Kulashekhara Varman,136,159,Karur,24,106,9.17,1
+514,Chola,Vikrama Chola,554,581,Thanjavur,41,178,5.38,5
+515,Chera,Uthiyan Cheralathan,968,995,Karur,31,133,7.85,19
+516,Chola,Rajaraja Chola I,778,815,Thanjavur,99,64,6.4,18
+517,Chera,Senguttuvan,674,701,Karur,18,177,6.2,8
+518,Chera,Senguttuvan,152,169,Karur,63,173,7.76,2
+519,Pandya,Maravarman Sundara Pandyan,1008,1037,Madurai,47,44,7.24,16
+520,Chera,Uthiyan Cheralathan,552,583,Karur,59,186,6.64,14
+521,Chera,Uthiyan Cheralathan,1083,1095,Karur,59,114,8.06,20
+522,Chola,Rajaraja Chola I,204,219,Thanjavur,57,167,6.16,12
+523,Chera,Uthiyan Cheralathan,100,110,Karur,67,72,7.12,9
+524,Chera,Uthiyan Cheralathan,172,193,Karur,74,144,9.1,2
+525,Chera,Kulashekhara Varman,1096,1111,Karur,85,153,7.41,7
+526,Pandya,Maravarman Sundara Pandyan,978,999,Madurai,10,75,8.74,18
+527,Pandya,Maravarman Sundara Pandyan,570,602,Madurai,47,48,8.97,18
+528,Chola,Rajendra Chola I,1072,1109,Thanjavur,26,129,7.46,16
+529,Chola,Kulothunga Chola I,479,512,Thanjavur,20,66,6.27,10
+530,Chola,Kulothunga Chola I,458,490,Thanjavur,68,101,5.33,3
+531,Chera,Senguttuvan,466,490,Karur,12,29,8.0,20
+532,Chola,Rajaraja Chola I,974,988,Thanjavur,91,133,9.55,6
+533,Chola,Rajaraja Chola I,785,814,Thanjavur,95,119,9.31,20
+534,Pandya,Maravarman Sundara Pandyan,335,351,Madurai,85,155,8.75,7
+535,Chola,Vikrama Chola,550,568,Thanjavur,43,139,8.75,0
+536,Pandya,Jatavarman Sundara Pandyan,1254,1288,Madurai,60,114,6.56,5
+537,Pandya,Jatavarman Sundara Pandyan,764,803,Madurai,96,99,5.67,11
+538,Chola,Kulothunga Chola I,974,1012,Thanjavur,81,74,5.9,5
+539,Pandya,Jatavarman Sundara Pandyan,1229,1255,Madurai,60,142,8.76,13
+540,Chola,Kulothunga Chola I,931,945,Thanjavur,28,44,6.69,5
+541,Chola,Rajendra Chola I,207,234,Thanjavur,48,162,7.4,9
+542,Chera,Senguttuvan,190,216,Karur,25,164,7.68,8
+543,Chola,Rajaraja Chola I,556,569,Thanjavur,93,175,6.39,0
+544,Chola,Rajaraja Chola I,409,434,Thanjavur,43,45,9.52,3
+545,Pandya,Nedunjeliyan II,701,740,Madurai,86,23,7.07,2
+546,Pandya,Nedunjeliyan II,120,155,Madurai,85,168,9.29,1
+547,Pandya,Maravarman Sundara Pandyan,1117,1130,Madurai,43,173,9.13,5
+548,Chola,Rajaraja Chola I,1234,1271,Thanjavur,100,105,6.89,13
+549,Pandya,Jatavarman Sundara Pandyan,605,615,Madurai,52,170,5.47,12
+550,Chera,Senguttuvan,424,439,Karur,41,179,5.41,1
+551,Pandya,Jatavarman Sundara Pandyan,589,612,Madurai,32,25,9.32,12
+552,Chera,Kulashekhara Varman,768,793,Karur,78,106,7.37,20
+553,Pandya,Jatavarman Sundara Pandyan,436,466,Madurai,37,56,5.05,19
+554,Chola,Kulothunga Chola I,1063,1073,Thanjavur,62,150,6.33,19
+555,Chera,Senguttuvan,218,232,Karur,93,85,9.0,13
+556,Chera,Uthiyan Cheralathan,1127,1147,Karur,73,161,9.87,14
+557,Chola,Rajaraja Chola I,789,826,Thanjavur,26,139,6.52,1
+558,Chola,Vikrama Chola,696,710,Thanjavur,100,90,9.64,15
+559,Chera,Uthiyan Cheralathan,1263,1290,Karur,34,180,5.87,14
+560,Chola,Rajaraja Chola I,971,1001,Thanjavur,36,130,9.87,9
+561,Chera,Kulashekhara Varman,540,558,Karur,74,21,7.29,6
+562,Pandya,Maravarman Sundara Pandyan,1287,1306,Madurai,15,147,5.79,17
+563,Pandya,Nedunjeliyan II,847,877,Madurai,98,121,8.06,10
+564,Chola,Rajendra Chola I,667,692,Thanjavur,100,182,6.18,8
+565,Pandya,Maravarman Sundara Pandyan,698,735,Madurai,75,82,9.92,13
+566,Chera,Uthiyan Cheralathan,429,462,Karur,31,160,6.55,19
+567,Chera,Kulashekhara Varman,1104,1127,Karur,48,165,8.83,18
+568,Chola,Vikrama Chola,179,219,Thanjavur,51,115,8.79,0
+569,Pandya,Nedunjeliyan II,545,571,Madurai,15,163,8.75,1
+570,Chola,Kulothunga Chola I,815,825,Thanjavur,90,78,7.1,17
+571,Chola,Rajaraja Chola I,293,325,Thanjavur,81,89,9.3,7
+572,Pandya,Maravarman Sundara Pandyan,375,388,Madurai,34,43,5.46,1
+573,Pandya,Maravarman Sundara Pandyan,974,1012,Madurai,44,96,7.82,14
+574,Chera,Senguttuvan,621,643,Karur,28,176,5.94,7
+575,Chola,Rajendra Chola I,572,608,Thanjavur,78,159,5.2,9
+576,Pandya,Jatavarman Sundara Pandyan,207,241,Madurai,16,166,6.27,5
+577,Pandya,Jatavarman Sundara Pandyan,142,160,Madurai,82,100,10.0,0
+578,Chera,Kulashekhara Varman,1028,1050,Karur,58,104,10.0,7
+579,Pandya,Maravarman Sundara Pandyan,827,851,Madurai,31,186,8.5,13
+580,Chera,Senguttuvan,403,441,Karur,80,81,6.2,4
+581,Chera,Senguttuvan,1238,1250,Karur,27,158,8.15,5
+582,Chera,Kulashekhara Varman,1137,1159,Karur,50,87,7.56,18
+583,Chera,Kulashekhara Varman,413,431,Karur,84,158,7.15,6
+584,Chera,Senguttuvan,1047,1084,Karur,25,46,9.45,10
+585,Pandya,Maravarman Sundara Pandyan,1147,1168,Madurai,93,50,6.99,0
+586,Pandya,Jatavarman Sundara Pandyan,160,187,Madurai,13,115,5.06,9
+587,Pandya,Maravarman Sundara Pandyan,1124,1160,Madurai,37,114,8.62,20
+588,Chera,Kulashekhara Varman,980,990,Karur,85,133,5.96,6
+589,Chola,Rajaraja Chola I,1286,1321,Thanjavur,42,156,9.1,17
+590,Pandya,Maravarman Sundara Pandyan,255,295,Madurai,88,63,8.02,1
+591,Pandya,Maravarman Sundara Pandyan,1231,1250,Madurai,21,53,7.72,11
+592,Chera,Uthiyan Cheralathan,110,120,Karur,49,126,5.27,7
+593,Pandya,Nedunjeliyan II,1069,1098,Madurai,70,182,7.35,16
+594,Pandya,Maravarman Sundara Pandyan,385,397,Madurai,80,132,7.85,18
+595,Chola,Rajendra Chola I,893,921,Thanjavur,27,77,5.97,19
+596,Chola,Kulothunga Chola I,262,300,Thanjavur,61,84,6.36,12
+597,Chera,Senguttuvan,264,278,Karur,30,43,8.32,12
+598,Chera,Senguttuvan,1231,1243,Karur,55,90,9.79,14
+599,Chola,Rajaraja Chola I,1107,1142,Thanjavur,71,128,7.92,19
+600,Chera,Kulashekhara Varman,1226,1256,Karur,20,28,7.67,11
+601,Pandya,Jatavarman Sundara Pandyan,185,198,Madurai,40,160,6.58,19
+602,Pandya,Jatavarman Sundara Pandyan,923,949,Madurai,44,42,5.58,0
+603,Chera,Kulashekhara Varman,1257,1267,Karur,27,150,5.84,11
+604,Chola,Vikrama Chola,605,634,Thanjavur,21,35,6.53,7
+605,Chera,Senguttuvan,459,472,Karur,96,193,7.7,19
+606,Chola,Kulothunga Chola I,157,170,Thanjavur,87,140,9.56,16
+607,Pandya,Nedunjeliyan II,866,906,Madurai,68,42,9.4,2
+608,Pandya,Jatavarman Sundara Pandyan,623,646,Madurai,17,111,7.64,11
+609,Chera,Uthiyan Cheralathan,679,708,Karur,72,59,8.7,13
+610,Pandya,Nedunjeliyan II,241,262,Madurai,21,23,7.7,15
+611,Chola,Vikrama Chola,155,189,Thanjavur,68,96,5.54,0
+612,Pandya,Nedunjeliyan II,275,289,Madurai,28,177,7.86,3
+613,Chola,Vikrama Chola,640,675,Thanjavur,12,159,9.19,11
+614,Chola,Rajaraja Chola I,664,695,Thanjavur,75,39,9.94,13
+615,Chola,Rajendra Chola I,398,427,Thanjavur,23,97,7.92,16
+616,Chola,Rajendra Chola I,919,934,Thanjavur,71,110,9.0,17
+617,Pandya,Nedunjeliyan II,984,1002,Madurai,100,29,7.01,9
+618,Chola,Rajaraja Chola I,1261,1273,Thanjavur,84,42,6.21,2
+619,Pandya,Nedunjeliyan II,102,134,Madurai,35,157,6.13,11
+620,Pandya,Nedunjeliyan II,836,853,Madurai,35,75,6.37,9
+621,Chera,Kulashekhara Varman,427,437,Karur,36,194,7.67,0
+622,Pandya,Nedunjeliyan II,1018,1040,Madurai,55,112,5.35,17
+623,Chola,Rajendra Chola I,1151,1171,Thanjavur,29,166,9.37,2
+624,Chola,Rajendra Chola I,168,205,Thanjavur,26,134,6.52,15
+625,Pandya,Jatavarman Sundara Pandyan,357,392,Madurai,16,133,5.93,10
+626,Chola,Vikrama Chola,960,983,Thanjavur,24,53,5.36,1
+627,Chola,Kulothunga Chola I,418,458,Thanjavur,37,142,6.5,19
+628,Pandya,Nedunjeliyan II,149,164,Madurai,48,179,8.75,8
+629,Chola,Vikrama Chola,256,277,Thanjavur,48,23,8.87,7
+630,Chera,Senguttuvan,1089,1099,Karur,85,124,7.04,17
+631,Chera,Senguttuvan,184,211,Karur,93,43,7.07,6
+632,Chola,Rajaraja Chola I,779,804,Thanjavur,79,194,9.0,2
+633,Pandya,Jatavarman Sundara Pandyan,886,920,Madurai,22,123,5.61,18
+634,Pandya,Nedunjeliyan II,1041,1063,Madurai,27,45,8.48,2
+635,Chera,Senguttuvan,852,870,Karur,93,173,6.55,9
+636,Chera,Uthiyan Cheralathan,230,249,Karur,46,39,8.6,20
+637,Chera,Senguttuvan,284,306,Karur,48,113,5.29,0
+638,Pandya,Maravarman Sundara Pandyan,920,939,Madurai,33,170,7.91,7
+639,Chera,Senguttuvan,184,222,Karur,28,51,9.83,17
+640,Pandya,Nedunjeliyan II,779,817,Madurai,72,145,6.81,10
+641,Chera,Kulashekhara Varman,222,238,Karur,40,112,8.79,10
+642,Chera,Kulashekhara Varman,1116,1153,Karur,42,150,6.26,18
+643,Chera,Kulashekhara Varman,1178,1199,Karur,22,137,9.08,10
+644,Chola,Vikrama Chola,814,839,Thanjavur,46,70,5.24,6
+645,Pandya,Jatavarman Sundara Pandyan,1244,1269,Madurai,97,181,9.9,8
+646,Chera,Kulashekhara Varman,1105,1143,Karur,25,175,6.49,11
+647,Chera,Senguttuvan,1054,1078,Karur,46,97,7.02,0
+648,Chola,Rajendra Chola I,252,276,Thanjavur,33,75,5.97,11
+649,Chera,Senguttuvan,1128,1154,Karur,97,144,5.7,13
+650,Chola,Vikrama Chola,355,371,Thanjavur,43,169,7.41,17
+651,Chera,Kulashekhara Varman,235,270,Karur,88,122,7.59,17
+652,Chola,Rajendra Chola I,1113,1144,Thanjavur,37,176,7.81,5
+653,Chera,Senguttuvan,1219,1229,Karur,49,92,8.46,3
+654,Pandya,Maravarman Sundara Pandyan,175,213,Madurai,51,54,9.21,2
+655,Chera,Uthiyan Cheralathan,527,559,Karur,62,22,6.55,19
+656,Chera,Kulashekhara Varman,879,918,Karur,71,111,9.65,11
+657,Chera,Senguttuvan,533,544,Karur,23,113,6.61,9
+658,Pandya,Jatavarman Sundara Pandyan,506,517,Madurai,31,87,5.02,1
+659,Pandya,Nedunjeliyan II,909,932,Madurai,11,29,5.19,8
+660,Pandya,Jatavarman Sundara Pandyan,1169,1207,Madurai,94,171,5.52,19
+661,Chola,Rajendra Chola I,385,406,Thanjavur,54,148,9.82,17
+662,Chola,Rajaraja Chola I,1261,1273,Thanjavur,60,129,6.18,20
+663,Chola,Vikrama Chola,970,983,Thanjavur,27,174,6.89,12
+664,Pandya,Nedunjeliyan II,118,131,Madurai,77,67,9.25,3
+665,Pandya,Maravarman Sundara Pandyan,1015,1026,Madurai,34,37,8.38,17
+666,Chola,Rajendra Chola I,133,143,Thanjavur,93,113,5.0,5
+667,Pandya,Nedunjeliyan II,398,420,Madurai,74,36,7.47,9
+668,Chera,Senguttuvan,851,864,Karur,65,81,7.18,20
+669,Pandya,Maravarman Sundara Pandyan,1186,1211,Madurai,53,84,5.56,9
+670,Chera,Senguttuvan,779,799,Karur,53,77,8.42,14
+671,Chera,Uthiyan Cheralathan,961,998,Karur,85,99,5.75,3
+672,Chola,Rajendra Chola I,693,724,Thanjavur,59,193,7.41,16
+673,Chola,Rajendra Chola I,663,696,Thanjavur,28,38,5.87,15
+674,Pandya,Maravarman Sundara Pandyan,505,529,Madurai,12,159,5.36,1
+675,Pandya,Jatavarman Sundara Pandyan,628,641,Madurai,76,127,6.71,12
+676,Chera,Senguttuvan,139,154,Karur,57,180,5.45,7
+677,Chola,Vikrama Chola,398,422,Thanjavur,70,81,7.38,16
+678,Pandya,Jatavarman Sundara Pandyan,101,122,Madurai,83,125,5.37,19
+679,Pandya,Nedunjeliyan II,908,924,Madurai,59,125,6.93,15
+680,Pandya,Maravarman Sundara Pandyan,537,574,Madurai,18,190,8.08,3
+681,Pandya,Nedunjeliyan II,525,559,Madurai,71,131,5.3,4
+682,Pandya,Jatavarman Sundara Pandyan,632,653,Madurai,35,168,8.31,10
+683,Chola,Rajaraja Chola I,1057,1095,Thanjavur,27,39,8.52,1
+684,Chera,Senguttuvan,104,120,Karur,61,176,6.83,8
+685,Chera,Uthiyan Cheralathan,786,800,Karur,32,21,5.2,4
+686,Chola,Vikrama Chola,1120,1136,Thanjavur,68,186,8.79,3
+687,Chola,Rajaraja Chola I,934,971,Thanjavur,17,180,6.9,5
+688,Chola,Kulothunga Chola I,760,785,Thanjavur,24,25,9.72,15
+689,Pandya,Jatavarman Sundara Pandyan,1284,1303,Madurai,60,46,6.52,0
+690,Chera,Senguttuvan,1240,1269,Karur,92,73,7.33,17
+691,Pandya,Nedunjeliyan II,952,977,Madurai,66,142,5.97,5
+692,Pandya,Maravarman Sundara Pandyan,428,453,Madurai,98,38,5.69,9
+693,Pandya,Nedunjeliyan II,968,983,Madurai,76,190,9.91,8
+694,Pandya,Maravarman Sundara Pandyan,538,548,Madurai,72,78,8.12,17
+695,Pandya,Nedunjeliyan II,283,295,Madurai,45,179,6.55,0
+696,Pandya,Maravarman Sundara Pandyan,1181,1205,Madurai,92,100,8.02,14
+697,Pandya,Nedunjeliyan II,667,697,Madurai,50,83,8.96,10
+698,Chera,Senguttuvan,438,468,Karur,70,182,9.55,16
+699,Chola,Vikrama Chola,1169,1201,Thanjavur,67,66,6.59,0
+700,Chola,Kulothunga Chola I,366,401,Thanjavur,94,132,5.84,12
+701,Chera,Senguttuvan,372,397,Karur,13,160,7.83,15
+702,Chola,Kulothunga Chola I,104,127,Thanjavur,52,173,6.54,11
+703,Chera,Uthiyan Cheralathan,1032,1052,Karur,52,64,9.87,15
+704,Chera,Senguttuvan,300,310,Karur,82,37,6.97,9
+705,Chola,Rajendra Chola I,264,275,Thanjavur,13,165,5.14,4
+706,Chera,Uthiyan Cheralathan,348,360,Karur,12,31,8.76,19
+707,Pandya,Maravarman Sundara Pandyan,958,984,Madurai,98,40,7.25,7
+708,Pandya,Nedunjeliyan II,640,663,Madurai,11,129,5.94,20
+709,Chera,Kulashekhara Varman,998,1014,Karur,18,100,8.28,17
+710,Chera,Senguttuvan,125,144,Karur,70,156,9.05,20
+711,Chola,Rajendra Chola I,1151,1175,Thanjavur,94,69,7.77,17
+712,Chola,Rajaraja Chola I,963,981,Thanjavur,87,105,6.78,5
+713,Pandya,Jatavarman Sundara Pandyan,298,329,Madurai,71,45,9.66,14
+714,Chola,Rajaraja Chola I,901,913,Thanjavur,66,160,8.29,17
+715,Chera,Kulashekhara Varman,703,741,Karur,76,129,9.91,14
+716,Chera,Uthiyan Cheralathan,608,623,Karur,79,87,6.32,11
+717,Chola,Rajaraja Chola I,728,752,Thanjavur,54,182,6.99,17
+718,Chola,Rajaraja Chola I,483,513,Thanjavur,92,178,5.33,7
+719,Pandya,Nedunjeliyan II,1026,1037,Madurai,75,139,5.26,18
+720,Pandya,Nedunjeliyan II,293,310,Madurai,74,156,6.99,19
+721,Chola,Rajendra Chola I,817,829,Thanjavur,99,131,6.91,14
+722,Chola,Rajaraja Chola I,622,649,Thanjavur,67,191,7.37,11
+723,Pandya,Nedunjeliyan II,610,642,Madurai,33,198,9.52,0
+724,Chera,Kulashekhara Varman,1100,1115,Karur,40,146,8.0,5
+725,Pandya,Nedunjeliyan II,925,944,Madurai,79,81,5.83,1
+726,Chera,Kulashekhara Varman,1149,1180,Karur,17,126,9.77,20
+727,Chera,Senguttuvan,136,155,Karur,61,101,5.14,8
+728,Chera,Senguttuvan,1116,1154,Karur,99,103,6.37,10
+729,Pandya,Jatavarman Sundara Pandyan,1294,1317,Madurai,20,65,9.15,2
+730,Pandya,Nedunjeliyan II,1087,1111,Madurai,80,107,7.6,20
+731,Chola,Kulothunga Chola I,1207,1233,Thanjavur,92,198,9.81,2
+732,Pandya,Maravarman Sundara Pandyan,1147,1165,Madurai,61,82,5.17,13
+733,Pandya,Maravarman Sundara Pandyan,178,208,Madurai,34,88,9.09,16
+734,Chera,Senguttuvan,259,280,Karur,74,29,5.3,6
+735,Chera,Kulashekhara Varman,742,773,Karur,20,42,6.65,16
+736,Chera,Uthiyan Cheralathan,607,628,Karur,83,43,7.36,18
+737,Pandya,Jatavarman Sundara Pandyan,833,850,Madurai,46,50,8.41,3
+738,Pandya,Jatavarman Sundara Pandyan,583,606,Madurai,91,36,7.66,14
+739,Pandya,Jatavarman Sundara Pandyan,1059,1084,Madurai,59,171,5.14,0
+740,Pandya,Jatavarman Sundara Pandyan,255,267,Madurai,26,181,6.66,5
+741,Pandya,Jatavarman Sundara Pandyan,160,183,Madurai,18,102,7.88,18
+742,Chera,Senguttuvan,179,203,Karur,58,80,7.61,7
+743,Chola,Rajaraja Chola I,1062,1081,Thanjavur,49,155,8.57,3
+744,Chera,Senguttuvan,1300,1336,Karur,35,192,7.96,20
+745,Chera,Kulashekhara Varman,397,421,Karur,71,102,6.11,3
+746,Chera,Uthiyan Cheralathan,756,795,Karur,44,114,5.91,19
+747,Pandya,Nedunjeliyan II,1123,1159,Madurai,67,56,7.89,3
+748,Chera,Uthiyan Cheralathan,302,330,Karur,62,52,7.58,13
+749,Chera,Uthiyan Cheralathan,270,301,Karur,100,195,9.72,3
+750,Chera,Kulashekhara Varman,1269,1289,Karur,72,43,7.04,10
+751,Pandya,Nedunjeliyan II,591,619,Madurai,56,47,7.36,4
+752,Chera,Uthiyan Cheralathan,732,756,Karur,39,139,5.53,5
+753,Chera,Senguttuvan,1216,1237,Karur,68,180,9.62,3
+754,Pandya,Nedunjeliyan II,1112,1152,Madurai,44,61,5.48,5
+755,Chola,Rajaraja Chola I,649,677,Thanjavur,75,135,6.47,6
+756,Chola,Vikrama Chola,852,888,Thanjavur,88,70,6.21,14
+757,Chera,Kulashekhara Varman,336,348,Karur,84,197,7.04,1
+758,Pandya,Jatavarman Sundara Pandyan,1277,1294,Madurai,64,169,5.19,14
+759,Chola,Rajaraja Chola I,804,839,Thanjavur,55,142,9.0,3
+760,Chola,Vikrama Chola,322,359,Thanjavur,41,31,7.92,3
+761,Chola,Rajaraja Chola I,839,862,Thanjavur,50,69,7.02,8
+762,Chera,Senguttuvan,895,905,Karur,52,81,9.3,5
+763,Chera,Senguttuvan,1107,1142,Karur,46,164,8.51,20
+764,Chola,Kulothunga Chola I,732,746,Thanjavur,44,91,7.56,4
+765,Pandya,Nedunjeliyan II,732,764,Madurai,77,90,6.87,4
+766,Chera,Kulashekhara Varman,518,558,Karur,38,26,8.49,0
+767,Pandya,Jatavarman Sundara Pandyan,645,658,Madurai,16,83,6.92,16
+768,Chera,Senguttuvan,156,184,Karur,25,39,5.76,10
+769,Pandya,Jatavarman Sundara Pandyan,232,263,Madurai,32,33,8.37,19
+770,Chera,Senguttuvan,918,946,Karur,62,135,6.63,6
+771,Pandya,Maravarman Sundara Pandyan,173,187,Madurai,61,109,6.39,6
+772,Chera,Senguttuvan,574,584,Karur,67,96,7.54,13
+773,Chera,Uthiyan Cheralathan,993,1015,Karur,58,128,8.24,13
+774,Pandya,Nedunjeliyan II,1023,1050,Madurai,64,198,7.98,15
+775,Chera,Uthiyan Cheralathan,255,274,Karur,94,96,7.64,19
+776,Chola,Kulothunga Chola I,107,128,Thanjavur,81,127,9.08,0
+777,Pandya,Jatavarman Sundara Pandyan,330,367,Madurai,39,200,7.76,8
+778,Chera,Kulashekhara Varman,563,601,Karur,56,111,5.73,12
+779,Chola,Rajaraja Chola I,521,531,Thanjavur,47,192,6.07,13
+780,Chera,Kulashekhara Varman,318,340,Karur,49,21,5.88,0
+781,Pandya,Maravarman Sundara Pandyan,372,387,Madurai,38,67,9.68,7
+782,Pandya,Jatavarman Sundara Pandyan,773,809,Madurai,42,51,9.32,12
+783,Pandya,Maravarman Sundara Pandyan,795,816,Madurai,90,127,5.61,18
+784,Chola,Kulothunga Chola I,742,779,Thanjavur,100,122,5.39,2
+785,Chola,Vikrama Chola,883,915,Thanjavur,28,44,7.26,10
+786,Chera,Uthiyan Cheralathan,1203,1221,Karur,53,100,5.02,12
+787,Chera,Kulashekhara Varman,410,437,Karur,84,65,7.81,0
+788,Chera,Kulashekhara Varman,710,738,Karur,26,59,8.98,14
+789,Chola,Vikrama Chola,438,453,Thanjavur,43,171,8.1,17
+790,Chera,Kulashekhara Varman,887,914,Karur,73,50,7.26,7
+791,Pandya,Jatavarman Sundara Pandyan,1183,1203,Madurai,63,147,9.8,12
+792,Chola,Vikrama Chola,969,996,Thanjavur,25,162,5.84,19
+793,Chola,Kulothunga Chola I,1269,1289,Thanjavur,52,30,5.12,10
+794,Pandya,Jatavarman Sundara Pandyan,734,746,Madurai,54,89,5.82,14
+795,Chola,Kulothunga Chola I,285,302,Thanjavur,28,120,5.59,6
+796,Chola,Rajendra Chola I,849,874,Thanjavur,28,66,8.87,0
+797,Chera,Kulashekhara Varman,140,162,Karur,52,182,6.83,11
+798,Pandya,Maravarman Sundara Pandyan,994,1023,Madurai,40,34,8.68,5
+799,Chola,Rajaraja Chola I,929,958,Thanjavur,81,115,6.78,1
+800,Chola,Rajendra Chola I,1290,1328,Thanjavur,83,148,9.21,2
+801,Chola,Kulothunga Chola I,636,653,Thanjavur,15,143,7.57,1
+802,Chola,Kulothunga Chola I,958,989,Thanjavur,81,27,6.89,11
+803,Chera,Uthiyan Cheralathan,338,366,Karur,47,23,5.09,20
+804,Pandya,Jatavarman Sundara Pandyan,968,1007,Madurai,76,106,8.06,0
+805,Chera,Kulashekhara Varman,366,376,Karur,42,183,9.23,11
+806,Chera,Kulashekhara Varman,498,538,Karur,31,196,9.59,16
+807,Chera,Kulashekhara Varman,669,700,Karur,88,128,8.33,8
+808,Chola,Kulothunga Chola I,166,189,Thanjavur,93,178,9.0,14
+809,Pandya,Maravarman Sundara Pandyan,597,621,Madurai,41,104,9.77,15
+810,Chola,Rajendra Chola I,1260,1283,Thanjavur,45,32,6.5,2
+811,Pandya,Jatavarman Sundara Pandyan,169,180,Madurai,51,127,7.78,6
+812,Pandya,Nedunjeliyan II,976,1015,Madurai,27,128,8.79,7
+813,Chola,Rajaraja Chola I,1165,1181,Thanjavur,57,60,9.03,17
+814,Pandya,Nedunjeliyan II,1030,1062,Madurai,64,80,5.17,5
+815,Chera,Uthiyan Cheralathan,1065,1087,Karur,80,33,5.39,5
+816,Chola,Kulothunga Chola I,153,170,Thanjavur,73,42,8.22,9
+817,Pandya,Jatavarman Sundara Pandyan,433,473,Madurai,58,137,8.32,10
+818,Chera,Kulashekhara Varman,803,815,Karur,86,105,9.02,8
+819,Chera,Kulashekhara Varman,538,558,Karur,18,152,7.24,5
+820,Chera,Senguttuvan,178,210,Karur,73,62,9.13,2
+821,Pandya,Nedunjeliyan II,654,681,Madurai,42,65,7.36,8
+822,Chera,Senguttuvan,539,553,Karur,30,32,8.29,7
+823,Pandya,Maravarman Sundara Pandyan,577,595,Madurai,56,91,7.17,12
+824,Chera,Uthiyan Cheralathan,449,470,Karur,85,82,8.57,4
+825,Pandya,Maravarman Sundara Pandyan,334,367,Madurai,85,113,5.15,13
+826,Pandya,Nedunjeliyan II,906,929,Madurai,51,141,9.07,16
+827,Chola,Vikrama Chola,1275,1309,Thanjavur,82,189,9.73,18
+828,Pandya,Maravarman Sundara Pandyan,158,196,Madurai,63,197,6.99,0
+829,Pandya,Maravarman Sundara Pandyan,900,920,Madurai,22,106,8.58,4
+830,Pandya,Nedunjeliyan II,739,779,Madurai,20,193,7.98,7
+831,Chola,Vikrama Chola,622,650,Thanjavur,29,177,9.1,11
+832,Chera,Kulashekhara Varman,1085,1099,Karur,80,175,6.96,10
+833,Pandya,Nedunjeliyan II,1022,1054,Madurai,10,66,8.33,9
+834,Pandya,Jatavarman Sundara Pandyan,1024,1051,Madurai,87,107,6.06,4
+835,Pandya,Jatavarman Sundara Pandyan,128,164,Madurai,37,195,9.6,13
+836,Pandya,Nedunjeliyan II,229,255,Madurai,49,108,9.79,15
+837,Pandya,Jatavarman Sundara Pandyan,1173,1188,Madurai,28,180,9.16,20
+838,Chola,Vikrama Chola,432,468,Thanjavur,57,141,9.39,13
+839,Chola,Vikrama Chola,1180,1212,Thanjavur,33,143,7.02,17
+840,Chera,Senguttuvan,1173,1184,Karur,69,152,9.52,19
+841,Chera,Uthiyan Cheralathan,464,485,Karur,81,152,6.16,6
+842,Chola,Rajaraja Chola I,623,659,Thanjavur,25,80,6.26,14
+843,Chola,Rajaraja Chola I,555,579,Thanjavur,64,92,6.21,10
+844,Chera,Kulashekhara Varman,935,959,Karur,84,102,9.37,3
+845,Chera,Senguttuvan,244,254,Karur,90,93,7.97,20
+846,Chola,Rajaraja Chola I,219,256,Thanjavur,97,133,8.61,7
+847,Pandya,Jatavarman Sundara Pandyan,172,188,Madurai,95,25,8.33,2
+848,Chola,Kulothunga Chola I,481,498,Thanjavur,52,153,5.55,5
+849,Chola,Rajaraja Chola I,1239,1275,Thanjavur,38,155,5.94,16
+850,Pandya,Jatavarman Sundara Pandyan,597,615,Madurai,96,90,6.73,15
+851,Chera,Uthiyan Cheralathan,414,437,Karur,24,176,6.46,20
+852,Pandya,Jatavarman Sundara Pandyan,1299,1324,Madurai,46,138,7.57,20
+853,Pandya,Maravarman Sundara Pandyan,898,925,Madurai,53,26,7.43,20
+854,Chola,Rajendra Chola I,301,331,Thanjavur,86,159,7.72,11
+855,Pandya,Maravarman Sundara Pandyan,977,1007,Madurai,99,143,5.86,4
+856,Pandya,Jatavarman Sundara Pandyan,1025,1037,Madurai,70,114,8.99,10
+857,Pandya,Maravarman Sundara Pandyan,228,267,Madurai,65,170,9.73,3
+858,Chera,Kulashekhara Varman,459,480,Karur,31,172,6.78,10
+859,Pandya,Jatavarman Sundara Pandyan,997,1034,Madurai,27,94,9.09,12
+860,Chola,Rajaraja Chola I,879,905,Thanjavur,92,116,6.42,15
+861,Chera,Kulashekhara Varman,303,343,Karur,77,155,6.78,10
+862,Chera,Uthiyan Cheralathan,483,505,Karur,95,138,5.53,10
+863,Chera,Senguttuvan,898,927,Karur,63,179,9.45,11
+864,Pandya,Jatavarman Sundara Pandyan,275,315,Madurai,88,179,9.99,8
+865,Chola,Rajendra Chola I,375,397,Thanjavur,25,116,9.09,7
+866,Chola,Kulothunga Chola I,316,355,Thanjavur,23,159,6.79,2
+867,Chola,Kulothunga Chola I,223,250,Thanjavur,18,52,9.71,18
+868,Pandya,Nedunjeliyan II,657,681,Madurai,32,163,7.52,18
+869,Pandya,Nedunjeliyan II,1078,1103,Madurai,13,181,6.75,18
+870,Chera,Kulashekhara Varman,1174,1208,Karur,59,181,6.65,3
+871,Pandya,Nedunjeliyan II,703,740,Madurai,10,64,7.94,9
+872,Chera,Uthiyan Cheralathan,700,726,Karur,25,186,8.6,16
+873,Pandya,Nedunjeliyan II,440,450,Madurai,36,63,5.3,5
+874,Chera,Uthiyan Cheralathan,591,619,Karur,69,190,5.72,16
+875,Chera,Senguttuvan,554,590,Karur,35,194,5.95,14
+876,Chola,Vikrama Chola,949,984,Thanjavur,18,149,6.55,4
+877,Chera,Uthiyan Cheralathan,1014,1047,Karur,12,33,5.6,14
+878,Chola,Rajendra Chola I,138,159,Thanjavur,35,26,6.49,4
+879,Pandya,Nedunjeliyan II,1015,1035,Madurai,39,200,7.13,19
+880,Chera,Senguttuvan,694,712,Karur,73,141,7.57,18
+881,Chola,Rajaraja Chola I,1223,1233,Thanjavur,99,195,9.76,11
+882,Chola,Rajaraja Chola I,645,666,Thanjavur,90,131,7.39,2
+883,Chola,Rajaraja Chola I,748,773,Thanjavur,12,28,9.22,13
+884,Pandya,Jatavarman Sundara Pandyan,301,317,Madurai,34,151,6.7,15
+885,Pandya,Nedunjeliyan II,1195,1226,Madurai,26,190,9.11,1
+886,Pandya,Nedunjeliyan II,341,373,Madurai,64,101,6.86,2
+887,Chola,Rajaraja Chola I,173,200,Thanjavur,40,69,6.45,5
+888,Chola,Kulothunga Chola I,992,1021,Thanjavur,47,131,8.88,1
+889,Chera,Senguttuvan,982,1014,Karur,93,136,5.34,3
+890,Pandya,Nedunjeliyan II,851,866,Madurai,51,79,5.62,6
+891,Pandya,Nedunjeliyan II,189,215,Madurai,44,194,7.27,16
+892,Chera,Senguttuvan,1061,1097,Karur,63,70,8.3,2
+893,Chera,Uthiyan Cheralathan,403,415,Karur,84,76,8.26,14
+894,Chera,Uthiyan Cheralathan,923,956,Karur,53,99,7.49,11
+895,Pandya,Nedunjeliyan II,700,734,Madurai,59,196,7.98,14
+896,Pandya,Maravarman Sundara Pandyan,1219,1230,Madurai,86,108,5.63,10
+897,Chera,Kulashekhara Varman,294,313,Karur,57,65,9.2,20
+898,Pandya,Jatavarman Sundara Pandyan,960,985,Madurai,26,152,6.06,4
+899,Chola,Rajaraja Chola I,770,792,Thanjavur,46,75,7.07,3
+900,Pandya,Nedunjeliyan II,489,504,Madurai,83,150,5.73,19
+901,Chera,Uthiyan Cheralathan,874,888,Karur,55,85,6.89,2
+902,Pandya,Jatavarman Sundara Pandyan,1097,1108,Madurai,35,21,6.8,1
+903,Chera,Kulashekhara Varman,164,194,Karur,85,188,9.78,19
+904,Pandya,Jatavarman Sundara Pandyan,400,416,Madurai,96,150,8.12,14
+905,Pandya,Jatavarman Sundara Pandyan,686,704,Madurai,92,147,5.34,12
+906,Pandya,Jatavarman Sundara Pandyan,773,809,Madurai,11,67,7.93,13
+907,Chera,Senguttuvan,1236,1272,Karur,99,37,8.22,0
+908,Chola,Rajaraja Chola I,1026,1056,Thanjavur,73,162,7.39,3
+909,Pandya,Jatavarman Sundara Pandyan,1010,1024,Madurai,27,159,7.37,7
+910,Chola,Vikrama Chola,439,472,Thanjavur,91,99,9.24,8
+911,Chola,Rajendra Chola I,1094,1108,Thanjavur,11,200,8.06,5
+912,Pandya,Jatavarman Sundara Pandyan,504,544,Madurai,51,110,7.25,8
+913,Chera,Kulashekhara Varman,906,929,Karur,74,101,5.19,6
+914,Chera,Uthiyan Cheralathan,671,698,Karur,39,107,6.13,7
+915,Pandya,Maravarman Sundara Pandyan,552,563,Madurai,38,114,7.03,14
+916,Chera,Senguttuvan,410,434,Karur,88,59,8.23,15
+917,Chola,Kulothunga Chola I,1263,1288,Thanjavur,64,162,6.76,6
+918,Pandya,Nedunjeliyan II,101,131,Madurai,65,143,7.85,1
+919,Chera,Senguttuvan,1186,1214,Karur,79,52,5.09,3
+920,Pandya,Nedunjeliyan II,145,185,Madurai,36,166,5.89,9
+921,Chera,Senguttuvan,617,628,Karur,82,123,7.44,12
+922,Pandya,Nedunjeliyan II,893,923,Madurai,82,176,9.41,7
+923,Pandya,Nedunjeliyan II,521,559,Madurai,25,25,6.54,18
+924,Chola,Rajaraja Chola I,278,305,Thanjavur,11,116,5.13,17
+925,Pandya,Nedunjeliyan II,669,684,Madurai,66,67,7.94,2
+926,Pandya,Nedunjeliyan II,427,437,Madurai,34,178,8.54,15
+927,Chera,Senguttuvan,1082,1119,Karur,71,173,6.11,19
+928,Pandya,Nedunjeliyan II,582,608,Madurai,90,160,7.68,0
+929,Chola,Rajendra Chola I,115,126,Thanjavur,60,21,9.27,2
+930,Chera,Kulashekhara Varman,871,908,Karur,77,157,9.54,14
+931,Chera,Senguttuvan,391,419,Karur,29,192,5.71,18
+932,Chola,Kulothunga Chola I,876,901,Thanjavur,49,47,7.2,18
+933,Pandya,Nedunjeliyan II,457,467,Madurai,99,58,8.73,6
+934,Chola,Rajendra Chola I,740,758,Thanjavur,33,23,5.91,4
+935,Chera,Uthiyan Cheralathan,571,591,Karur,74,30,7.11,2
+936,Chola,Kulothunga Chola I,1096,1116,Thanjavur,88,171,8.54,3
+937,Chola,Rajaraja Chola I,969,1005,Thanjavur,68,51,5.0,13
+938,Chera,Kulashekhara Varman,553,586,Karur,95,49,7.8,13
+939,Chola,Vikrama Chola,522,554,Thanjavur,25,170,7.07,4
+940,Pandya,Jatavarman Sundara Pandyan,141,174,Madurai,50,38,8.14,3
+941,Pandya,Nedunjeliyan II,1107,1126,Madurai,95,23,8.82,11
+942,Chera,Kulashekhara Varman,526,549,Karur,54,71,8.64,3
+943,Pandya,Nedunjeliyan II,349,388,Madurai,86,68,8.94,20
+944,Chera,Uthiyan Cheralathan,829,858,Karur,62,104,9.5,16
+945,Chola,Kulothunga Chola I,323,362,Thanjavur,45,189,8.53,19
+946,Pandya,Nedunjeliyan II,1109,1138,Madurai,38,200,7.58,1
+947,Chola,Vikrama Chola,121,155,Thanjavur,97,82,8.76,18
+948,Pandya,Maravarman Sundara Pandyan,1128,1164,Madurai,100,180,8.12,1
+949,Pandya,Jatavarman Sundara Pandyan,579,616,Madurai,44,59,7.85,10
+950,Chola,Kulothunga Chola I,576,592,Thanjavur,65,32,6.92,20
+951,Pandya,Nedunjeliyan II,489,528,Madurai,11,130,6.51,7
+952,Pandya,Jatavarman Sundara Pandyan,1005,1031,Madurai,75,140,6.84,12
+953,Chera,Uthiyan Cheralathan,955,995,Karur,52,119,5.23,18
+954,Chera,Kulashekhara Varman,276,291,Karur,97,21,9.95,17
+955,Pandya,Maravarman Sundara Pandyan,793,813,Madurai,53,82,7.76,12
+956,Chola,Kulothunga Chola I,504,521,Thanjavur,83,153,9.7,1
+957,Chola,Rajendra Chola I,532,560,Thanjavur,46,182,6.73,7
+958,Chola,Kulothunga Chola I,849,869,Thanjavur,90,76,5.6,11
+959,Chera,Senguttuvan,556,583,Karur,81,22,9.04,7
+960,Chola,Kulothunga Chola I,964,1004,Thanjavur,31,57,9.76,2
+961,Chera,Kulashekhara Varman,417,453,Karur,64,58,9.94,15
+962,Chola,Rajendra Chola I,693,705,Thanjavur,80,151,9.79,18
+963,Chola,Rajaraja Chola I,350,383,Thanjavur,69,35,9.85,8
+964,Chola,Rajaraja Chola I,199,213,Thanjavur,92,53,6.53,19
+965,Chola,Kulothunga Chola I,793,810,Thanjavur,60,75,8.43,18
+966,Chera,Senguttuvan,344,369,Karur,95,101,5.23,3
+967,Chera,Kulashekhara Varman,831,856,Karur,53,182,8.65,9
+968,Pandya,Nedunjeliyan II,142,153,Madurai,36,129,5.85,2
+969,Pandya,Jatavarman Sundara Pandyan,1153,1172,Madurai,67,76,5.1,12
+970,Chera,Senguttuvan,1167,1181,Karur,61,90,5.32,14
+971,Chola,Rajendra Chola I,923,959,Thanjavur,79,93,6.57,17
+972,Chera,Uthiyan Cheralathan,656,684,Karur,45,128,7.61,4
+973,Chola,Kulothunga Chola I,306,322,Thanjavur,88,146,6.13,6
+974,Chera,Kulashekhara Varman,674,699,Karur,85,108,8.14,3
+975,Pandya,Nedunjeliyan II,855,894,Madurai,70,88,6.69,15
+976,Pandya,Maravarman Sundara Pandyan,1035,1059,Madurai,32,156,9.74,11
+977,Pandya,Maravarman Sundara Pandyan,934,961,Madurai,28,104,6.81,16
+978,Chera,Kulashekhara Varman,182,193,Karur,90,191,9.39,0
+979,Chera,Uthiyan Cheralathan,687,719,Karur,70,136,9.82,14
+980,Chola,Kulothunga Chola I,817,843,Thanjavur,39,113,6.76,2
+981,Chola,Rajaraja Chola I,477,492,Thanjavur,23,92,7.65,10
+982,Chera,Uthiyan Cheralathan,321,361,Karur,41,163,6.06,19
+983,Pandya,Maravarman Sundara Pandyan,544,577,Madurai,61,27,9.84,0
+984,Chola,Rajendra Chola I,937,957,Thanjavur,95,21,8.56,11
+985,Chola,Rajendra Chola I,1272,1305,Thanjavur,12,189,5.96,6
+986,Chera,Kulashekhara Varman,669,705,Karur,58,195,9.14,17
+987,Pandya,Maravarman Sundara Pandyan,500,513,Madurai,17,193,5.15,1
+988,Chola,Kulothunga Chola I,569,608,Thanjavur,22,199,9.07,8
+989,Chola,Vikrama Chola,931,967,Thanjavur,51,145,5.36,11
+990,Chola,Rajaraja Chola I,134,145,Thanjavur,36,88,5.75,15
+991,Chola,Vikrama Chola,1207,1228,Thanjavur,58,106,5.42,12
+992,Chera,Kulashekhara Varman,109,136,Karur,83,20,7.01,9
+993,Pandya,Maravarman Sundara Pandyan,946,959,Madurai,43,121,8.76,8
+994,Pandya,Jatavarman Sundara Pandyan,912,949,Madurai,92,46,9.89,7
+995,Chera,Senguttuvan,471,509,Karur,62,188,9.54,15
+996,Chera,Senguttuvan,309,341,Karur,55,30,7.93,0
+997,Chola,Rajendra Chola I,750,760,Thanjavur,93,176,9.23,0
+998,Chola,Vikrama Chola,185,225,Thanjavur,51,70,8.53,18
+999,Chera,Senguttuvan,1003,1028,Karur,12,39,5.09,10
+1000,Chola,Rajaraja Chola I,1065,1080,Thanjavur,79,129,8.37,4
