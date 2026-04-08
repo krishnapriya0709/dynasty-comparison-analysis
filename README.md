@@ -38,7 +38,7 @@ This project analyzes historical data of the Chola, Chera, and Pandya kingdoms t
 
 ## 📁 Project Files
 
-- `analysis.py` → Data analysis using Python
+- `Analysis.py` → Data analysis using Python
 - `Kingdom_Dataset.csv` → Dataset used
 - `Dynasty_Project.twb` → Tableau dashboard
 - `Project_Report.pdf` → Detailed project report
