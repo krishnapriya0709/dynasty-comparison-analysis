@@ -43,6 +43,7 @@ This project analyzes historical data of the Chola, Chera, and Pandya kingdoms t
 - `Dynasty_Project.twb` → Tableau dashboard
 - `Project_Report.pdf` → Detailed project report
 
+---
 
 ## 📸 Visualizations
 
