@@ -1,39 +1,42 @@
-# Dynasty Comparison Data Analysis (Chola, Chera, Pandya)
+# Dynasty Comparison Data Analysis 📊
 
-This project explores and compares the historical influence of the **Chola, Chera, and Pandya dynasties** using a data-driven approach.  
-It combines **Python, Google Sheets, Tableau, and statistical analysis** to present insights into trade, culture, and legacy.
-
----
-
-## 📂 Project Files
-- `dynasty_analysis.py` → Python code for cleaning & analysis  
-- `dynasty_data.csv` → Dataset (exported from Google Sheets)  
-- `dynasty_dashboard.twb` → Tableau dashboard file  
-- `dynasty_report.pdf` → Project summary & visual results  
+A data-driven analysis of the Chola, Chera, and Pandya dynasties using Python, Google Sheets, and Tableau.
 
 ---
 
-## 🛠️ Tools & Technologies
-- **Python (pandas, matplotlib)** for data analysis  
-- **Google Sheets** for initial data collection  
-- **Tableau** for visualization & storytelling  
+## 🚀 Features
+- Data cleaning and preprocessing
+- Comparative analysis of dynasties
+- Visualization of key metrics
+- Correlation analysis between variables
 
 ---
 
 ## 📊 Key Insights
-- Comparative analysis of cultural and territorial dominance  
-- Trade and inscription patterns across dynasties  
-- Tableau dashboards highlight dynasty-specific strengths  
+- Compared temples built, inscriptions, and trade reach
+- Identified patterns across dynasties
+- Visualized trends using charts and heatmaps
 
 ---
 
-## 🚀 How to Use
-1. Clone or download the repository.  
-2. Run `dynasty_analysis.py` to explore the data.  
-3. Open `dynasty_dashboard.twb` in Tableau to view the visualizations.  
-4. Refer to `dynasty_report.pdf` for a detailed walkthrough.  
+## 🛠 Tech Stack
+- Python
+- Google Sheets
+- Tableau
 
 ---
 
-## 📌 Author
-**Krishna Priya** – Data Analyst Enthusiast  
+## 📸 Visualizations
+
+![Dashboard](dashboard.png)
+![Analysis](analysis.png)
+
+---
+
+## 📁 Dataset
+- Historical dataset of South Indian dynasties
+
+---
+
+## 📌 Description
+This project analyzes historical data of the Chola, Chera, and Pandya kingdoms to uncover insights into their cultural, economic, and military influence.
