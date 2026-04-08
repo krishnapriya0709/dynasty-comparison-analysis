@@ -26,13 +26,6 @@ A data-driven analysis of the Chola, Chera, and Pandya dynasties using Python, G
 
 ---
 
-## 📸 Visualizations
-
-![Dashboard](dashboard.png)
-![Analysis](analysis.png)
-
----
-
 ## 📁 Dataset
 - Historical dataset of South Indian dynasties
 
@@ -49,3 +42,10 @@ This project analyzes historical data of the Chola, Chera, and Pandya kingdoms t
 - `Kingdom_Dataset.csv` → Dataset used
 - `Dynasty_Project.twb` → Tableau dashboard
 - `Project_Report.pdf` → Detailed project report
+
+
+## 📸 Visualizations
+
+![Dashboard](dashboard.png)
+![Analysis](analysis.png)
+
